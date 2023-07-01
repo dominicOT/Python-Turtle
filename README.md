@@ -18,7 +18,4 @@ This repository is licensed under the GNU v3.0 License. You can find more inform
 
 
 # Contributing
-If you'd like to contribute to this repository, please fork the repository and create a pull request. We welcome all contributions, including bug fixes, feature requests, and new scripts.
-
-# Acknowledgments
-We'd like to thank the developers of the Turtle library for creating such a fun and versatile graphics library. We'd also like to thank the Python community for their support and contributions to the Python language.
+If you'd like to contribute to this repository, please fork the repository and create a pull request. All contributions are Welcome 🤗
