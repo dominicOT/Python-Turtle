@@ -17,5 +17,4 @@ After you've cloned the repository, you can navigate to the directory containing
 This repository is licensed under the GNU v3.0 License. You can find more information in the LICENSE file.
 
 
-# Contributing
-If you'd like to contribute to this repository, please fork the repository and create a pull request. All contributions are Welcome 🤗
+As this is also another random class task, you're so free to disect it however you please.
